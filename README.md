@@ -1,4 +1,4 @@
-# Test library vlibras react
+# Library vlibras react
 
 customization and update in the code
 
